@@ -35,9 +35,7 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
   vendor/xiaomi/mione_plus/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
   vendor/xiaomi/mione_plus/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
-  vendor/xiaomi/mione_plus/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
-  vendor/xiaomi/mione_plus/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
