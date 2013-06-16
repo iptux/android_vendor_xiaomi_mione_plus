@@ -41,6 +41,9 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+  vendor/xiaomi/mione_plus/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
+  vendor/xiaomi/mione_plus/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+  vendor/xiaomi/mione_plus/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/4330nvram.txt:system/etc/firmware/4330nvram.txt \
@@ -50,8 +53,6 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd_apsta.bin:system/etc/firmware/fw_bcmdhd_apsta.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/fw_bcmdhd_ftm.bin:system/etc/firmware/fw_bcmdhd_ftm.bin \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/nvram.txt:system/etc/firmware/nvram.txt \
-  vendor/xiaomi/mione_plus/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
-  vendor/xiaomi/mione_plus/proprietary/lib/libnv.so:system/lib/libnv.so \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcm4329.hcd:system/etc/firmware/bcm4329.hcd \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcm4330.hcd:system/etc/firmware/bcm4330.hcd \
   vendor/xiaomi/mione_plus/proprietary/etc/init.qcom.modem_links.sh:system/etc/init.qcom.modem_links.sh \
@@ -95,7 +96,6 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
   vendor/xiaomi/mione_plus/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
-  vendor/xiaomi/mione_plus/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
   vendor/xiaomi/mione_plus/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
   vendor/xiaomi/mione_plus/proprietary/bin/dun-server:system/bin/dun-server \
   vendor/xiaomi/mione_plus/proprietary/bin/port-bridge:system/bin/port-bridge \
