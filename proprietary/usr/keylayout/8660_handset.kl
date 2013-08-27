@@ -27,5 +27,5 @@
 # key 164, 168, 208 are for 8660 V2
 key 226   HEADSETHOOK       WAKE
 key 164   HEADSETHOOK       WAKE
-key 168   MEDIA_NEXT        WAKE
-key 208   MEDIA_PREVIOUS    WAKE
+key 168   MEDIA_PREVIOUS    WAKE
+key 208   MEDIA_NEXT        WAKE
