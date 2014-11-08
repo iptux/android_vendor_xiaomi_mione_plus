@@ -78,9 +78,6 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
-  vendor/xiaomi/mione_plus/proprietary/bin/rild:system/bin/rild \
-  vendor/xiaomi/mione_plus/proprietary/lib/libril.so:system/lib/libril.so \
-  vendor/xiaomi/mione_plus/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
   vendor/xiaomi/mione_plus/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
   vendor/xiaomi/mione_plus/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
   vendor/xiaomi/mione_plus/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
